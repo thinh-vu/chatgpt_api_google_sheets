@@ -2,6 +2,7 @@
 
 This repository provides a simple code to implement the ChatGPT API in Google Sheets using Apps Script and a custom function.
 
+[ENGLISH]. VIETNAMESE BELOW↓
 ## How to use
 
 1. Open a Google Sheets file where you want to run the ChatGPT API.
